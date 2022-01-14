@@ -1,5 +1,8 @@
 _repo: Hints-on-the-History-and-Management-of-the-Honey-Bee-Being-the-Substance-of-Two-Lectures-Read__67108
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67108-h/images/cover_epub.jpg
 creator:
   author:
     agent_name: Bevan, E. J. (Edward John)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25451
     wikipedia: https://en.wikipedia.org/wiki/Edward_John_Bevan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67108#Hints-on-the-History-and-Management-of-the-Honey-Bee-Being-the-Substance-of-Two-Lectures-Read_
 gutenberg_issued: '2022-01-05'
 identifiers:
   gutenberg: '67108'
